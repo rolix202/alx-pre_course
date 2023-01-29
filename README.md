@@ -1,1 +1,1 @@
-My first readme
+ALX Pre course README file.. About Github
